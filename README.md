@@ -46,19 +46,11 @@
 
 | #   | 章节名称 |
 |-----|----------|
-| 1   | [Favorites DApp](https://www.youtube.com/watch?v=amAq-WHAFs8&t=622s)  
-| 2   | [链上投票系统(Voting)](https://www.youtube.com/watch?v=amAq-WHAFs8&t=2262s)  
-| 3   | [Blinks 快链调用](https://www.youtube.com/watch?v=amAq-WHAFs8&t=6632s)  
-| 4   | [CRUD 应用](https://www.youtube.com/watch?v=amAq-WHAFs8&t=9105s)  
-| 5   | [代币系统](https://www.youtube.com/watch?v=amAq-WHAFs8&t=12891s)  
-| 6   | [NFT 开发](https://www.youtube.com/watch?v=amAq-WHAFs8&t=13752s)  
-| 7   | [Poker Chip Swap](https://www.youtube.com/watch?v=amAq-WHAFs8&t=15922s)  
-| 8   | [代币锁仓（Token Vesting）](https://www.youtube.com/watch?v=amAq-WHAFs8&t=20895s)  
-| 9   | [代币抽奖(Token Lottery)](https://www.youtube.com/watch?v=amAq-WHAFs8&t=30677s)  
-| 10  | [链上借贷协议 (Lending)](https://www.youtube.com/watch?v=HOdYZSe1uhE&t=0s)  
-| 11  | [可编程货币系统 (Programmable Money)](https://www.youtube.com/watch?v=HOdYZSe1uhE&t=11292s)  
-| 12  | [模拟银行攻击](https://www.youtube.com/watch?v=HOdYZSe1uhE&t=20615s)  
-| 13  | [上线准备与生产部署](https://www.youtube.com/watch?v=HOdYZSe1uhE&t=24025s)  
+| 1   | [训练营简介](https://www.youtube.com/watch?v=YzqXms3jY4A&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=5)  
+| 2   | [课程基础](https://www.youtube.com/watch?v=VrRsxjOsENo&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=4)  
+| 3   | [开发Favorite合约](https://www.youtube.com/watch?v=qlaWwGd0Y28&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=3)  
+| 4   | [开发链上投票应用]([https://www.youtube.com/watch?v=amAq-WHAFs8&t=2262s](https://www.youtube.com/watch?v=GksCwn6CxZ0&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=2)  
+| 5   | [为应用添加Blinks](https://www.youtube.com/watch?v=efikULSUKT8&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=1)  
 
 ---
 
