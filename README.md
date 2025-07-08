@@ -7,7 +7,7 @@
 
 欢迎访问本仓库，这里是Solana区块链开发训练营的完整课程资源库。仓库包含了全套课程文档、代码示例和相关辅助资源。
 
-本课程为Solana官方训练营 [2024 Solana Bootcamp](https://www.youtube.com/watch?v=amAq-WHAFs8) 的官方华语版训练营。
+本课程为Solana区块链训练营 [2024 Solana Bootcamp](https://www.youtube.com/watch?v=amAq-WHAFs8) 的中文版本，并从基础知识和基本工具开始，逐渐延伸到最新，最强大的生态技术工具。
 
 本训练营适合所有希望学习区块链开发的Builder。你不需要具备区块链、智能合约或 Rust 的基础知识，我们会从零开始，带你一步步学习如何在 Solana 区块链上开发应用。
 
