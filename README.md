@@ -49,7 +49,7 @@
 | 1   | [训练营简介](https://www.youtube.com/watch?v=YzqXms3jY4A&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=5)  
 | 2   | [课程基础](https://www.youtube.com/watch?v=VrRsxjOsENo&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=4)  
 | 3   | [开发Favorite合约](https://www.youtube.com/watch?v=qlaWwGd0Y28&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=3)  
-| 4   | [开发链上投票应用]([https://www.youtube.com/watch?v=amAq-WHAFs8&t=2262s](https://www.youtube.com/watch?v=GksCwn6CxZ0&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=2)  
+| 4   | [开发链上投票应用](https://www.youtube.com/watch?v=GksCwn6CxZ0&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=2)  
 | 5   | [为应用添加Blinks](https://www.youtube.com/watch?v=efikULSUKT8&list=PL2uR1wVuhGihkDxoEQQh1O6TuzlTDKEyl&index=1)  
 
 ---
